@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hola!;+Soy+Strick3rc+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
 
-<!--
-**Strick3rc/Strick3rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NtamRyaHkyeHJ2MTFvOTV1cDA2eHB4NWp0bmRibDNmZHRlMG9hZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wl6VxNbHaKWw8RcYXd/giphy.gif" />
 
-Here are some ideas to get you started:
+## Soy Estudiante de Ing de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Actualmente me encuentro aprendiendo.
+- 💪🏼 Metas Futuras: Aprender mas sobre las nuevas tecnologias, y tambien aprender a hackear, si me enseñan mejor xd.
+
+--
+
+
+
+
