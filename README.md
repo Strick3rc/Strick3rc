@@ -12,4 +12,7 @@
 - 💪🏼 Metas Futuras: Aprender mas sobre las nuevas tecnologias, y tambien aprender a hackear, si me enseñan mejor xd.
 
 
+--
+--
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
