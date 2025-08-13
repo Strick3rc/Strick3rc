@@ -13,6 +13,3 @@
 
 
 
-<a href="https://instagram.com/https://https://www.instagram.com/strik3rc/" objetivo="_blanco">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=whitealt=instagram style="margin-bottom: 5px;" />
-</a>  
